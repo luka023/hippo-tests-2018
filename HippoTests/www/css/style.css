@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell:400,700');
+
+.space {
+	margin-top: 60px;
+}
+.hippo {
+	text-align: center;
+}
+.hippo-title {
+    font-size: 36px;
+    margin-top: 15px;
+    color: #fec031;
+    letter-spacing: 20px;
+    font-weight: 700;
+    font-family: 'Cantarell', sans-serif;
+}
+.hippo img {
+	padding: 20px;
+}
+.rows {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.login-box {
+	border: 1px solid #e6e6e6;
+	padding: 1.5em 1.5em;
+	width: 400px;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: auto; 
+}
+.forms {
+	padding: 1.5em 1.5em;
+	width: 600px;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: auto; 
+}
+.login-sup {
+	color: #666;
+	text-align: center;
+}
+.login-sup a {
+	color: #666;
+}
+.login-sup a .fa-plus {
+	color: #5db7e3;
+}
+.login-sup a .fa-key {
+	color: #e08a8a;
+}
+.login-sup a .fa-sign-in {
+	color: #5db7e3;
+}
+footer p {
+	margin-top: 40px;
+	text-align: center;
+}
+footer p .fa-heart {
+	color: #e08a8a;
+}
+footer p a {
+	color: #5db7e3;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.navbar .fa-sign-out {
+	color: #e08a8a;
+}
+.panel-box {
+	border: 1px solid #e6e6e6;
+	padding: 1.5em 1.5em;
+	overflow: auto; 
+}
+.panel-heading {
+	overflow: auto;
+}
+.panel-heading .author {
+	float: right;
+	margin-top:-20px;
+}
+.panel-box td img {
+	margin-top: -2px;
+}
+.panel-box td a {
+	color: #666;
+	font-weight: bold;
+}
+.panel-box .panel-body img {
+	width: 100%;
+}
+.panel-box .ticket-action {
+	float: right;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+.edit-panel {
+	border: 1px solid #e6e6e6;
+	padding: 1.5em 1.5em;
+}
+label{
+	color: black;
+}
+#choice{
+	margin-bottom: 1em;
+}
+.choose-level{
+    font-size: 26px;
+    margin-top: 15px;
+    color: #fec031;
+    letter-spacing: 10px;
+    font-weight: 700;
+    font-family: 'Cantarell', sans-serif;
+}
+#play{
+	margin-top: 10px;
+	width: 30%;
+}
+.submit-width{
+	width: 40%;	
+	display: block;
+}
